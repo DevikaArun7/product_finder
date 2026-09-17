@@ -1,17 +1,50 @@
-# product_finder
+# Product Finder
 
-A new Flutter project.
+A Flutter mobile application for browsing, searching, and managing favorite products using a REST API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Firebase email/password Login & Registration
+* Browse products
+* Search products
+* View product details
+* Add/remove favorites
+* Favorites saved locally
+* Loading and error handling
+* Logout
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter & Dart
+* Provider for state management
+* Firebase Authentication
+* REST API using HTTP
+* DummyJSON API
+* SharedPreferences for local storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API
+
+DummyJSON:
+
+* `https://dummyjson.com/products`
+* `https://dummyjson.com/products/search?q={query}`
+* `https://dummyjson.com/products/{id}`
+
+## State Management
+
+Provider is used because it is simple and suitable for managing product and favorite states across screens.
+
+## AI Usage
+
+**AI Tool Used:** ChatGPT
+
+**ChatGPT was used during development to assist with:**
+
+* Flutter/Dart code debugging and error fixing
+* REST API integration
+* Provider state management
+* Firebase Authentication
+
+## Author
+
+**Devika Arun**
