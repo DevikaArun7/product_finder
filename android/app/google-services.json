@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465139698048",
+    "project_id": "product-finder-c9db4",
+    "storage_bucket": "product-finder-c9db4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465139698048:android:a9fda12980e0b750785965",
+        "android_client_info": {
+          "package_name": "com.example.product_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465139698048-v2fgnu4o5bd95c3n3mkh9jh5qdp1ccov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbybx2dc4SgJj2WbKujgU3tUKTZSi48Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465139698048-v2fgnu4o5bd95c3n3mkh9jh5qdp1ccov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
